@@ -1,4 +1,4 @@
 class JarredFS:
     @abstractmethod
-    SaveFile():
+    SaveFile(self):
         pass
